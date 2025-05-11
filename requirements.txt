@@ -1,9 +1,9 @@
+streamlit
 streamlit-option-menu
 scikit-learn
 numpy
 pandas
-re
 requests
 joblib
-beautifulsoup
+beautifulsoup4
 tldextract
